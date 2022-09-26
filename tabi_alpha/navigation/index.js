@@ -25,7 +25,6 @@ const Navigation = () => {
         <Stack.Screen name="SignUp" component={SignUpScreen} />
         <Stack.Screen name="ConfirmSignUp" component={ConfirmSignUp} />
         <Stack.Screen name="ResetAccess" component={ResetAccessScreen} />
-
         <Stack.Screen name="Home" component={Home} />
       </Stack.Navigator>
     </NavigationContainer>
